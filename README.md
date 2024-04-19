@@ -6,5 +6,5 @@
 ## Files
 
 - `data.csv`: Dataset containing the data for analysis.
-- `data_analysis.ipynb`: Jupyter Notebook file for data analysis.
+- `data_analysis.ipynb`: Jupyter Notebook file for data analysis and prediction
 
